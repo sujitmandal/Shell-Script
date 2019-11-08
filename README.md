@@ -118,7 +118,6 @@ echo "$W"
 echo "$R"
 echo "$X"
 
-
  Write a shell script to input numbers at command line and print a count of positive and negative numbers entered.
 ------------------------------------------------------------------------------------------------------------------
 
